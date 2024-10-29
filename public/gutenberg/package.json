@@ -1,0 +1,23 @@
+{
+	"name": "pdf-embed-plugin-for-wp",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Embed PDF's in WordPress using the Adobe PDF Embed API and replace the default PDF viewer.",
+	"author": "Adobe Inc.",
+	"license": "GPL-2.0-or-later",
+	"keywords": [
+		"WordPress",
+		"block"
+	],
+	"main": "build/index.js",
+	"devDependencies": {
+		"@wordpress/scripts": "^9.0.0"
+	},
+	"scripts": {
+		"build": "wp-scripts build",
+		"format:js": "wp-scripts format-js",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"start": "wp-scripts start"
+	}
+}

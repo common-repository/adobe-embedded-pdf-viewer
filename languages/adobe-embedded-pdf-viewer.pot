@@ -1,0 +1,216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Adobe Embedded PDF Viewer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-22 23:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: adobe-embedded-pdf-viewer"
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:432
+msgid " and paste it into the Client ID field below."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:467
+msgid ""
+" guide to correctly map the data from Embedded PDF Viewer to your Adobe "
+"Analytics report suite."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:621
+msgid ""
+"(auto, initial, inherit, 0 or a number with any of the following "
+"px|cm|mm|in|pt|pc|em|ex|ch|rem|vw|vh|vmin|vmax units)"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:216
+msgid "Add a download button to the Embedded PDF Viewer."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:262
+msgid "Add a full screen button to the Sized Container Viewer."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:239
+msgid "Add a print button to the Embedded PDF Viewer."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:170
+msgid "Add annotation tools to the Full Window Viewer."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:80
+msgid "Adobe Analytics <br> Report Suite ID"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:41
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:42
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:375
+msgid "Adobe Embedded PDF Viewer"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:423
+msgid ""
+"Adobe Embedded PDF Viewer is free to use. Sign up for your free credential "
+msgstr ""
+
+#. Author of the plugin
+msgid "Adobe Inc."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:63
+msgid "Client ID (API Key)"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:567
+msgid "Close"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:588
+msgid "Close the Lightbox with a close button or a back button (Return)."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:464
+msgid "Configure Adobe Analytics"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:300
+msgid "Dock Page Controls"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:308
+msgid "Dock the page controls in the Embedded PDF Viewer."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:105
+msgid "Embed Mode"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:528
+msgid "embed mode."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Embed PDF's in WordPress using the Adobe PDF Embed API and replace the "
+"default PDF viewer."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:458
+msgid ""
+"Embedded PDF Viewer integrates with Adobe Analytics (requires separate "
+"licensing). Enter your reportSuiteID and follow the configuration steps "
+"outlined in"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:162
+msgid "Enable Annotation Tools"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:254
+msgid "Enable Full Screen View"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:208
+msgid "Enable PDF Download"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:231
+msgid "Enable Printing PDF"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:539
+msgid "Fit Page"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:542
+msgid "Fit Width"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:517
+msgid "Full Window"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:382
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:55
+msgid "General Settings:"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:323
+msgid "Height"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:331
+msgid "Height of the Sized Container Viewer. Valid CSS widths are accepted."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:429
+msgid "here"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.adobe.com/"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:523
+msgid "In-Line"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:122
+msgid "Initial Page View"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:514
+msgid "Lightbox"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:142
+msgid "Lightbox Exit Type"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:582
+msgid "Return"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:527
+msgid "Set the "
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:545
+msgid "Set the initial page view to either fit page or fit width."
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:520
+msgid "Sized Container"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:383
+msgid "View Settings"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:97
+msgid "View Settings:"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:346
+msgid "Width"
+msgstr ""
+
+#: admin/class-adobe-embedded-pdf-viewer-admin.php:354
+msgid ""
+"Width of the Sized Container and In-Line Viewer. Valid CSS widths are "
+"accepted."
+msgstr ""

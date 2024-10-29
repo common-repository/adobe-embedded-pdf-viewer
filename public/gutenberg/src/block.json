@@ -1,0 +1,69 @@
+{
+  "name": "pdf-embed-plugin-for-wp/embedded-pdf",
+  "title": "Adobe Embedded PDF Viewer",
+  "description": "Embed PDF's in WordPress using the Adobe PDF Embed API and replace the default PDF viewer.",
+  "category": "embed",
+  "keywords": [ "pdf" ],
+  "attributes": {
+    "pdfID": {
+      "type": "number"
+    },
+    "pdfURL": {
+      "type": "string"
+    },
+    "pdfEmbedAPIClientID": {
+      "type": "string"
+    },
+    "adobeAnalyticsReportSuiteID": {
+      "type": "string"
+    },
+    "blockID": {
+      "type": "string"
+    },
+    "embedMode": {
+      "enum": ["LIGHT_BOX", "FULL_WINDOW", "SIZED_CONTAINER", "IN_LINE"],
+      "default": "SIZED_CONTAINER"
+    },
+    "defaultViewMode": {
+      "enum": ["FIT_PAGE", "FIT_WIDTH"],
+      "default": "FIT_PAGE"
+    },
+    "exitPDFViewerType": {
+      "enum": ["CLOSE", "RETURN"],
+      "default": "CLOSE"
+    },
+    "showDownloadPDF": {
+      "type": "boolean",
+      "default": true
+    },
+    "showPrintPDF": {
+      "type": "boolean",
+      "default": true
+    },
+    "dockPageControls": {
+      "type": "boolean",
+      "default": false
+    },
+    "showAnnotationTools": {
+      "type": "boolean",
+      "default": true
+    },
+    "showFullScreen": {
+      "type": "boolean",
+      "default": true
+    },
+    "fullWindowEmbedModeCoversFullScreen": {
+      "type": "boolean",
+      "default": false
+    },
+    "height": {
+      "type": "string",
+      "default": "400px"
+    },
+    "width": {
+      "type": "string",
+      "default": "500px"
+    }
+  },
+  "script": "file:../build/index.js"
+}
